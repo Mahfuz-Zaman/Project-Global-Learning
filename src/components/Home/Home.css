@@ -1,10 +1,12 @@
 .banner-img {
   height: 500px;
+  opacity: 0.6;
 }
 .text-color {
-  color: rgb(255, 255, 255);
+  color: white;
+  text-shadow: rgb(141, 150, 146) 5px 0px;
   font-size: 50px;
 }
 .text-color-p {
-  color: blue;
+  color: rgb(0, 0, 0);
 }

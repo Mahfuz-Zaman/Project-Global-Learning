@@ -1,12 +1,14 @@
 import './About.css'
 import React from 'react';
+import { Container } from 'react-bootstrap';
 
 const About = () => {
     return (
-        <div className="about-body" >
+
+        <Container >
             <h1 className="text-center">About Us</h1>
-            <div className="text-center">
-                <img src={"https://daffodilvarsity.edu.bd/photos/shares/policy.jpg"} alt="" />
+            <div  >
+                <img className="about-img" src={"https://daffodilvarsity.edu.bd/photos/shares/policy.jpg"} alt="" />
             </div>
 
 
@@ -95,7 +97,7 @@ const About = () => {
 
 
 
-        </div>
+        </Container>
     );
 };
 
