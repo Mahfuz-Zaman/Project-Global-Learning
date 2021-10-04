@@ -55,7 +55,7 @@ const Home = () => {
             </div>
 
             <div className="text-center px-5">
-                <h1 className="text-center  px-5"><i class="fas fa-graduation-cap"></i>INTRODUCTION</h1>
+                <h1 className="text-center  px-5"><i className="fas fa-graduation-cap"></i>INTRODUCTION</h1>
                 <i>Global Learning offers bachelor degrees in the different spectrum of disciplines and provides the country's highly supported programs in many fields, including in IT, Telecommunications, Engineering and Business. Particularly strong programs can be found in the faculty of Business, Information Technology and Engineering and English Language.
 
                     Research is the means through which new knowledge is created and new information is developed. As such, research at Daffodil International University is an essential link in its three-prong mission of instruction, research and outreach. Successes among the varied research activities within each of its students and faculties continue to bolster Daffodil among the nation's top universities. Additionally, major efforts to increase the protection and commercialization of intellectual properties are central to Institution's continual drive for improvements in its committed mission.
@@ -76,7 +76,7 @@ const Home = () => {
 
             <div>
                 <div>
-                    <h1 className="text-center "><i class="fas fa-book-open"></i>Our Programs</h1>
+                    <h1 className="text-center "><i className="fas fa-book-open"></i>Our Programs</h1>
                     <Container>
                         <Row xs={1} md={2} className="g-4">
                             {
