@@ -16,6 +16,11 @@ const Services = () => {
 
     return (
         <div>
+            <div className="text-center m-5 ">
+                <h1 className="text-success">Our All Programs & Services</h1>
+                <h5>We are offering 36 undergraduate and graduate programs under 25 departments. Our curriculum is designed to help the students to develop the skills required for 21st-century employment.</h5> <br />
+                <button className="btn btn-success">Read More</button>
+            </div>
             <Container>
                 <Row xs={1} md={2} className="g-4">
                     {

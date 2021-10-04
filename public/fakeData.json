@@ -3,60 +3,60 @@
     "id": 101,
     "name": "CSE",
     "image": "https://www.rubatosis.org/journals/public/journals/55/homepageImage_en_US.jpg",
-    "price": 31000
+    "cost": 31000
     },
     {
     "id": 102,
     "name": "BBA",
     "image": "https://www.hamdarduniversity.edu.bd/images/faculty/BBA.png",
-    "price": 26000
+    "cost": 26000
     },
     {
     "id": 103,
     "name": "EEE",
     "image": "https://sc.edu/study/colleges_schools/engineering_and_computing/images/departments/ee_homepage_banner.jpg",
-    "price": 21000
+    "cost": 21000
     },
     {
     "id": 104,
     "name": "Textile",
-    "image": "https://image.freepik.com/free-vector/graphic-design-colorful-geometrical-lettering_52683-34588.jpg?size=626&ext=jpg",
-    "price": 10000
+    "image": "https://www.bci.edu.bd/wp-content/uploads/2019/06/Textile-Engineering.png",
+    "cost": 11000
     },
     {
     "id": 105,
     "name": "Civil",
-    "image": "https://miro.medium.com/max/800/0*i9fwlQw-55T7Bydg.jpg",
-    "price": 50000
+    "image": "https://www.intelligenthq.com/wp-content/uploads/2017/08/civil-engineering-2.jpg",
+    "cost": 51000
     },
     {
     "id": 106,
     "name": "Food Engineering",
-    "image": "https://images.wondershare.com/mockitt/ux-beginner/mechanical-engineering.jpeg",
-    "price": 100000
+    "image": "https://baromishal.com/wp-content/uploads/2020/11/Food-Engineering.jpg",
+    "cost": 120000
     },
     {
     "id": 107,
     "name": "Law",
-    "image": "https://nite.ac.bd/wp-content/uploads/2020/09/webdesign-services-why-i-should-have-a-website-for-my-business.jpg",
-    "price": 35000
+    "image": "https://www.iilsindia.com/blogs/wp-content/uploads/2021/02/20th-century-natural-law-revival.png",
+    "cost": 37000
     },
     {
     "id": 108,
     "name": "Journalism",
-    "image": "https://www.impactplus.com/hubfs/SEO-statistics.png#keepProtocol",
-    "price": 12000
+    "image": "https://gumlet.assettype.com/newslaundry%2Fimport%2F2018%2F10%2Flets-talk-about-Full-podcast-Article-image.jpg?auto=format%2Ccompress&fit=max&w=1200&dpr=1.0",
+    "cost": 121000
     },
     {
     "id": 109,
     "name": "Physics",
-    "image": "https://st2.depositphotos.com/5486284/8016/v/600/depositphotos_80162598-stock-illustration-set-of-physical-equipment.jpg",
-    "price": 200000
+    "image": "https://t17.pimg.jp/064/846/927/1/64846927.jpg",
+    "cost": 230000
     },
     {
     "id": 110,
-    "name": "Math",
-    "image": "https://i.ytimg.com/vi/Kp2bYWRQylk/maxresdefault.jpg",
-    "price": 400000
+    "name": "Maths",
+    "image": "https://image.freepik.com/free-vector/maths-chalkboard_23-2148178220.jpg",
+    "cost": 500000
     }
     ]
