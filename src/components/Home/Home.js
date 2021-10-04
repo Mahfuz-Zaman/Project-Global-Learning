@@ -16,7 +16,7 @@ const Home = () => {
 
     return (
         <div>
-            <div>
+            <div className="mb-5">
                 <Carousel variant="dark">
                     <Carousel.Item>
                         <img
@@ -26,7 +26,7 @@ const Home = () => {
                         />
                         <Carousel.Caption>
                             <h3 className="text-color">Main Ground</h3>
-                            <p className="text-color-p">Our 150 Acre campus is full of life and positive energy, fostering education and innovation for more than 20000 students. Here, students are encouraged to ask questions and think, debate and collaborate with professors to take ownership of their learning.</p>
+                            <p className="text-color-p fw-bold">Our 150 Acre campus is full of life and positive energy, fostering education and innovation for more than 20000 students. Here, students are encouraged to ask questions and think, debate and collaborate with professors to take ownership of their learning.</p>
                         </Carousel.Caption>
                     </Carousel.Item>
                     <Carousel.Item>
@@ -37,7 +37,7 @@ const Home = () => {
                         />
                         <Carousel.Caption>
                             <h3 className="text-color">Foundation Day</h3>
-                            <p className="text-color-p" >We have students coming from different backgrounds, cultures, and nationalities as well. More than 500 international students are enrolled in various programs.</p>
+                            <p className="text-color-p fw-bold" >We have students coming from different backgrounds, cultures, and nationalities as well. More than 500 international students are enrolled in various programs.</p>
                         </Carousel.Caption>
                     </Carousel.Item>
                     <Carousel.Item>
@@ -48,13 +48,13 @@ const Home = () => {
                         />
                         <Carousel.Caption>
                             <h3 className="text-color">Convocation</h3>
-                            <p className="text-color-p">We make sure all our students get the help they need to complete the degree. Scholarships are available for students with excellent academic results as well as for the students who are struggling financially.</p>
+                            <p className="text-color-p fw-bold">We make sure all our students get the help they need to complete the degree. Scholarships are available for students with excellent academic results as well as for the students who are struggling financially.</p>
                         </Carousel.Caption>
                     </Carousel.Item>
                 </Carousel>
             </div>
 
-            <div className="text-center px-5">
+            <div className="text-center px-5 py-5">
                 <h1 className="text-center  px-5"><i className="fas fa-graduation-cap"></i>INTRODUCTION</h1>
                 <i>Global Learning offers bachelor degrees in the different spectrum of disciplines and provides the country's highly supported programs in many fields, including in IT, Telecommunications, Engineering and Business. Particularly strong programs can be found in the faculty of Business, Information Technology and Engineering and English Language.
 
@@ -66,16 +66,8 @@ const Home = () => {
                 <button className="btn btn-success">See More</button>
             </div>
 
-
-
-
-
-
-
-
-
             <div>
-                <div>
+                <div >
                     <h1 className="text-center "><i className="fas fa-book-open"></i>Our Programs</h1>
                     <Container>
                         <Row xs={1} md={2} className="g-4">
