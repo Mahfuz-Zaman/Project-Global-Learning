@@ -55,36 +55,36 @@ const About = () => {
                     <h2>VALUES</h2>
                     <ul>
                         <li>
-                            <h3>ETHICS</h3>
+                            <h4>ETHICS</h4>
                             <p>We value ethics and are committed to being ethical in our practices and services. No way it will ever compromise with ethical values and always nourish ethical values among its staffs, teachers, and students.</p>
 
                         </li>
                         <li>
-                            <h3>QUALITY</h3>
+                            <h4>QUALITY</h4>
                             <p>
                                 We strive to ensure excellence in what we do and the way we serve people. DIU believes in continuously looking for and making use of opportunities to improve further.
                             </p>
                         </li>
                         <li>
-                            <h3>LEADERSHIP</h3>
+                            <h4>LEADERSHIP</h4>
                             <p>
                                 We believe in leadership as we through our prompt and agile work process set up examples for others to follow.
                             </p>
                         </li>
                         <li>
-                            <h3>INNOVATION</h3>
+                            <h4>INNOVATION</h4>
                             <p>
                                 We empower individuals to think innovatively, remain curious, and value new ideas.
                             </p>
                         </li>
                         <li>
-                            <h3>DIVERSITY</h3>
+                            <h4>DIVERSITY</h4>
                             <p>
                                 We value opinions and ideas from different people of different groups no matter what their race, nationality, age, religion, and position is.
                             </p>
                         </li>
                         <li>
-                            <h3>CONTINUOUS LEARNING</h3>
+                            <h4>CONTINUOUS LEARNING</h4>
                             <p>
                                 We influence people to be lifelong learners so that they remain committed to update and upgrade themselves.
                             </p>
